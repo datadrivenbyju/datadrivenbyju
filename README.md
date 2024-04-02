@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juliana Cerqueira</h1>
 <h3 align="center">A Bachelor Informatics Systems student in Germany!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datadrivenbyju&label=Profile%20views&color=0e75b6&style=flat" alt="datadrivenbyju" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joc-git&label=Profile%20views&color=0e75b6&style=flat" alt="joc-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datadrivenbyju" alt="datadrivenbyju" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joc-git" alt="joc-git" /></a> </p>
 
 - 🌱 I’m currently learning **Programming Fundamentals**
 
@@ -28,6 +28,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datadrivenbyju&show_icons=true&locale=en&layout=compact" alt="datadrivenbyju" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joc-git&show_icons=true&locale=en&layout=compact" alt="joc-git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datadrivenbyju&show_icons=true&locale=en" alt="datadrivenbyju" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joc-git&show_icons=true&locale=en" alt="joc-git" /></p>
