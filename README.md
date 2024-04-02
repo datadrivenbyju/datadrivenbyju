@@ -13,7 +13,7 @@ Hello and welcome to my profile! :)
 
 - 🤝 I’m looking for help with **Python tkinter module**
 
-- 👨‍💻 All of my projects are available at [Still working on it!](Still working on it!)
+- 👨‍💻 All of my projects are available at [Still working on it!]
 
 - 📫 How to reach me **cerqueirajoc@gmail.com**
 
