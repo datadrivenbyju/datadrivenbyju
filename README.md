@@ -1,5 +1,3 @@
-# myportoflio
-Hello and welcome to my profile! :)
 <h1 align="center">Hi 👋, I'm Juliana Cerqueira</h1>
 <h3 align="center">A Bachelor Informatics Systems student in Germany!</h3>
 
@@ -13,7 +11,7 @@ Hello and welcome to my profile! :)
 
 - 🤝 I’m looking for help with **Python tkinter module**
 
-- 👨‍💻 All of my projects are available at [Still working on it!]
+- 👨‍💻 All of my projects are available at [Still working on it!](Still working on it!)
 
 - 📫 How to reach me **cerqueirajoc@gmail.com**
 
@@ -23,6 +21,8 @@ Hello and welcome to my profile! :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/cerqueirajoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cerqueirajoc" height="30" width="40" /></a>
+<a href="https://instagram.com/julicerqueira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julicerqueira_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
